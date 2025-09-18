@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AWS CI/CD Project — S3 + CloudFront
 
 This repo contains a complete demo for a CI/CD pipeline that builds, tests, and deploys a static website to **S3** and serves it via **CloudFront** using **GitHub Actions** and **Terraform**.
@@ -77,3 +78,6 @@ On push to `main`, the workflow will:
 - Use least-privilege for the AWS keys; prefer an IAM user with S3 and CloudFront permissions.
 
 ---
+=======
+# aws-devops-demo
+>>>>>>> 19d37c933b4358d27e23c7ea3a9b3611afb1e0d9
