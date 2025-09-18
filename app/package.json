@@ -1,0 +1,10 @@
+{
+  "name": "aws-devops-static-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node build.js",
+    "test": "node test.js",
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
